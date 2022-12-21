@@ -1,0 +1,2 @@
+# REPORT-MANAGEMENT-SYSTEM
+The student report card management system project report contains the important methods and details in creating the project. The most important of which is to centralize the data administration and accessibility. Teachers will be able to input, maintain, and access student data more simply. Parents and guardians have a better understanding of how their children perform in class.
